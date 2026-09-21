@@ -1,0 +1,39 @@
+id,source,feedback,product_area
+1,Survey,The dashboard takes forever to load when I have more than 10 widgets. It becomes almost unusable.,Dashboard Performance
+2,Product Review,Loading the main dashboard is painfully slow. I wait 10+ seconds every morning just to see my data.,Dashboard Performance
+3,Support Ticket,Dashboard refresh is extremely slow. Our team has complained multiple times about this issue.,Dashboard Performance
+4,Email,Every time I open the dashboard with all my charts enabled it freezes for a while. Please fix the speed.,Dashboard Performance
+5,Survey,I wish the dashboard would load faster. The lag is really frustrating during our daily standups.,Dashboard Performance
+6,Survey,Please add a dark mode option. Staring at a white screen all day is tiring for my eyes.,Dark Mode / UI
+7,Product Review,No dark mode support in 2024 is unacceptable. This is a basic feature that almost every app has now.,Dark Mode / UI
+8,Email,Would love a dark theme for the interface. I work late hours and the bright UI is very harsh.,Dark Mode / UI
+9,Support Ticket,Several users on our team have requested a dark mode or at least a way to reduce screen brightness.,Dark Mode / UI
+10,Survey,The UI looks outdated. A modern dark mode would make the product feel much more professional.,Dark Mode / UI
+11,Survey,I get way too many notifications and cannot figure out how to turn specific ones off.,Notifications
+12,Product Review,Notification settings are confusing. I ended up disabling all alerts just to stop the spam.,Notifications
+13,Support Ticket,User is receiving duplicate email notifications for the same event. This is a known frustration.,Notifications
+14,Email,Please give us better control over notifications. I want daily digests instead of instant alerts.,Notifications
+15,Survey,I keep missing important alerts because they get buried under too many low-priority notifications.,Notifications
+16,Survey,The reporting module is great but I cannot export reports to PDF. This is a must-have for us.,Reporting
+17,Product Review,Scheduled reports would save our team hours every week. We need this feature badly.,Reporting
+18,Support Ticket,Client needs to export the monthly report as a PDF but the option is not available.,Reporting
+19,Email,We would love the ability to schedule automated reports to be emailed every Monday morning.,Reporting
+20,Survey,Custom date ranges in reports would be very helpful. Right now I am stuck with preset options only.,Reporting
+21,Survey,The mobile app crashes every time I try to open a large report on my phone.,Mobile Application
+22,Product Review,The iOS app is very buggy. It crashes frequently and the layout breaks on my iPhone 14.,Mobile Application
+23,Support Ticket,Mobile app keeps crashing on Android devices running version 12 and above.,Mobile Application
+24,Email,The mobile experience needs serious improvement. The app feels like an afterthought compared to the web version.,Mobile Application
+25,Survey,I cannot access half the features on mobile. The mobile app is missing too many things.,Mobile Application
+26,Survey,The search bar does not find items even when I type the exact name. It is very unreliable.,Search
+27,Product Review,Search is basically broken. I have to scroll through everything manually because search returns wrong results.,Search
+28,Support Ticket,User reports that searching for project names with special characters returns no results at all.,Search
+29,Email,Please improve the search functionality. It misses obvious results and the filters do not work well.,Search
+30,Survey,Search does not support fuzzy matching. A small typo means I get zero results.,Search
+31,Survey,Updating my profile information is confusing. I could not find where to change my display name.,Account / Profile
+32,Product Review,The account settings page is poorly organized. It took me 15 minutes to find the password change option.,Account / Profile
+33,Support Ticket,User cannot update their profile picture. The upload button appears but nothing happens after selecting the file.,Account / Profile
+34,Email,I need the ability to manage multiple team roles from one account. The current setup is too limited.,Account / Profile
+35,Survey,Two-factor authentication setup was difficult to find and the instructions were unclear.,Account / Profile
+36,Survey,Would be great if I could pin my most-used widgets to the top of the dashboard for quick access.,Dashboard Performance
+37,Product Review,Notifications should be smarter and learn what I care about over time instead of sending everything.,Notifications
+38,Email,It would be very helpful if the mobile app had offline mode so I can check data without internet.,Mobile Application

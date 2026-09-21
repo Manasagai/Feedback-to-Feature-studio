@@ -1,0 +1,19 @@
+# ── Phase 1: Foundation ───────────────────────────────────────────────────────
+streamlit
+pandas
+python-dotenv
+
+# ── Phase 3: Embeddings (add when implementing embeddings.py) ────────────────
+sentence-transformers
+numpy
+
+# ── Phase 4: Clustering (add when implementing clustering.py) ────────────────
+scikit-learn
+
+# ── Phase 5: RAG / Vector Store (add one when implementing rag.py) ──────────
+# faiss-cpu
+# chromadb
+
+# ── Phase 6: LLM API (add when implementing llm.py) ─────────────────────────
+# google-generativeai
+# openai   ← optional, if OpenAI support is added later

@@ -1,0 +1,62 @@
+================================================================================
+PRODUCT KNOWLEDGE BASE — Feedback-to-Feature Studio Demo
+================================================================================
+This is a fictional product knowledge base created for demonstration purposes.
+Product Name: Nexora Analytics Platform (fictional)
+Version: 3.2.1
+Last Updated: Q3 2024
+================================================================================
+
+--- DASHBOARD ---
+The Nexora Dashboard is the main landing page after login.
+Users can add up to 20 widgets to their dashboard.
+Widgets include: bar charts, line graphs, pie charts, KPI tiles, and activity feeds.
+Dashboard data refreshes every 5 minutes by default.
+Known Limitation: Dashboard performance degrades when more than 12 widgets are active simultaneously.
+Known Limitation: Dark mode is not currently supported on the dashboard.
+Planned: Widget pinning and custom layout persistence are on the Q4 roadmap.
+
+--- NOTIFICATIONS ---
+The notification system supports in-app alerts and email notifications.
+Users receive alerts for: report completions, team mentions, system updates, and threshold breaches.
+Notification frequency can be set to: instant, hourly digest, or daily digest.
+Known Limitation: Granular per-notification-type controls are not yet available.
+Known Limitation: Duplicate notifications can occur when multiple triggers fire within 60 seconds.
+Planned: Smart notification filtering using AI is under evaluation for a future release.
+
+--- REPORTS ---
+The Reports module allows users to create custom data reports.
+Supported export formats: CSV and Excel (.xlsx).
+Reports can be filtered by team, project, date range (last 7, 30, or 90 days).
+Known Limitation: PDF export is not currently available.
+Known Limitation: Scheduled/automated report delivery is not yet implemented.
+Known Limitation: Custom date range selection beyond preset options is not supported.
+Planned: PDF export and scheduled email reports are planned for Q1 2025.
+
+--- MOBILE APPLICATION ---
+Nexora has native mobile apps for iOS (version 14+) and Android (version 10+).
+The mobile app supports: dashboard viewing, notification management, and basic report access.
+Known Limitation: The mobile app does not support offline mode.
+Known Limitation: Some advanced report features are not available on mobile.
+Known Limitation: Stability issues have been reported on Android 12+ devices.
+Planned: A major mobile redesign and offline mode feature are targeted for Q2 2025.
+
+--- SEARCH ---
+The global search bar supports keyword-based search across projects, reports, and users.
+Search indexes update every 15 minutes.
+Known Limitation: Fuzzy search and typo tolerance are not currently supported.
+Known Limitation: Special characters in search queries can cause unexpected empty results.
+Known Limitation: Search filters do not persist between sessions.
+Planned: Upgraded search engine with fuzzy matching is scoped for Q1 2025.
+
+--- USER PROFILE & ACCOUNT ---
+Users can update their display name, email, and password from Account Settings.
+Profile picture upload supports PNG and JPG formats up to 2MB.
+Two-factor authentication (2FA) is available via authenticator app.
+Known Limitation: Profile picture upload has intermittent failures — a fix is in progress.
+Known Limitation: Role management for team accounts requires contacting support.
+Planned: Self-serve team role management is planned for Q4 2024.
+
+================================================================================
+END OF KNOWLEDGE BASE
+================================================================================
